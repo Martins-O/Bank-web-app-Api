@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3sAUD7ODFMq3GcyL2pc5w3cboEpZMSUlgx3qvO9Gh64=",
+  "Source": "BankAppWebApi",
+  "BasePath": "_content/BankAppWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
